@@ -2,7 +2,6 @@
   "version": 1,
   "app": "KiddyPlay",
   "contentType": "education_videos",
-
   "categories": [
     {
       "id": "animals",
@@ -52,9 +51,15 @@
       "description": "Learn counting and numbers",
       "icon": "🔢",
       "sortOrder": 7
+    },
+    {
+      "id": "colors",
+      "title": "Colors",
+      "description": "Learn about different colors",
+      "icon": "🎨",
+      "sortOrder": 8
     }
   ],
-
   "videos": [
     {
       "id": "animals_001",
@@ -121,7 +126,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "birds_001",
       "categoryId": "birds",
@@ -187,7 +191,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "fruits_001",
       "categoryId": "fruits",
@@ -253,7 +256,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "body_parts_001",
       "categoryId": "body_parts",
@@ -319,7 +321,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "alphabet_001",
       "categoryId": "alphabet",
@@ -385,7 +386,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "story_time_001",
       "categoryId": "story_time",
@@ -451,7 +451,6 @@
       "sortOrder": 5,
       "isPublished": true
     },
-
     {
       "id": "numbers_001",
       "categoryId": "numbers",
@@ -515,6 +514,162 @@
       "language": "English",
       "ageGroup": "2-6",
       "sortOrder": 5,
+      "isPublished": true
+    },
+    {
+      "id": "colors_001",
+      "categoryId": "colors",
+      "title": "Red",
+      "description": "Learn the color red",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 1,
+      "isPublished": true
+    },
+    {
+      "id": "colors_002",
+      "categoryId": "colors",
+      "title": "Blue",
+      "description": "Learn the color blue",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 2,
+      "isPublished": true
+    },
+    {
+      "id": "colors_003",
+      "categoryId": "colors",
+      "title": "Yellow",
+      "description": "Learn the color yellow",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 3,
+      "isPublished": true
+    },
+    {
+      "id": "colors_004",
+      "categoryId": "colors",
+      "title": "Green",
+      "description": "Learn the color green",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 4,
+      "isPublished": true
+    },
+    {
+      "id": "colors_005",
+      "categoryId": "colors",
+      "title": "Orange",
+      "description": "Learn the color orange",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 5,
+      "isPublished": true
+    },
+    {
+      "id": "colors_006",
+      "categoryId": "colors",
+      "title": "Purple",
+      "description": "Learn the color purple",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 6,
+      "isPublished": true
+    },
+    {
+      "id": "colors_007",
+      "categoryId": "colors",
+      "title": "Pink",
+      "description": "Learn the color pink",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 7,
+      "isPublished": true
+    },
+    {
+      "id": "colors_008",
+      "categoryId": "colors",
+      "title": "Black",
+      "description": "Learn the color black",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 8,
+      "isPublished": true
+    },
+    {
+      "id": "colors_009",
+      "categoryId": "colors",
+      "title": "White",
+      "description": "Learn the color white",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 9,
+      "isPublished": true
+    },
+    {
+      "id": "colors_010",
+      "categoryId": "colors",
+      "title": "Brown",
+      "description": "Learn the color brown",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 10,
+      "isPublished": true
+    },
+    {
+      "id": "colors_011",
+      "categoryId": "colors",
+      "title": "Rainbow Colors",
+      "description": "Learn the colors of the rainbow",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 11,
+      "isPublished": true
+    },
+    {
+      "id": "colors_012",
+      "categoryId": "colors",
+      "title": "Color Mixing",
+      "description": "Learn how colors mix together",
+      "thumbnail": "",
+      "driveUrl": "",
+      "duration": "03:00",
+      "language": "English",
+      "ageGroup": "2-6",
+      "sortOrder": 12,
       "isPublished": true
     }
   ]
