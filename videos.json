@@ -64,13 +64,13 @@
     {
       "id": "animals_001",
       "categoryId": "animals",
-      "title": "Farm Animals",
+      "title": "Animals Names",
       "description": "Learn the names and sounds of farm animals",
       "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
+      "driveUrl": "https://drive.google.com/file/d/1NajdTEq9LcG0lOWjH2SKtLofiaa-ofNs/view?usp=drivesdk",
+      "duration": "02:46",
       "language": "English",
-      "ageGroup": "2-6",
+      "ageGroup": "5-12",
       "sortOrder": 1,
       "isPublished": true
     },
