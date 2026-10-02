@@ -348,45 +348,6 @@
       "isPublished": true
     },
     {
-      "id": "alphabet_003",
-      "categoryId": "alphabet",
-      "title": "Capital Letters",
-      "description": "Learn capital alphabet letters",
-      "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
-      "language": "English",
-      "ageGroup": "2-6",
-      "sortOrder": 3,
-      "isPublished": true
-    },
-    {
-      "id": "alphabet_004",
-      "categoryId": "alphabet",
-      "title": "Small Letters",
-      "description": "Learn small alphabet letters",
-      "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
-      "language": "English",
-      "ageGroup": "2-6",
-      "sortOrder": 4,
-      "isPublished": true
-    },
-    {
-      "id": "alphabet_005",
-      "categoryId": "alphabet",
-      "title": "Alphabet Practice",
-      "description": "Practice identifying alphabet letters",
-      "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
-      "language": "English",
-      "ageGroup": "2-6",
-      "sortOrder": 5,
-      "isPublished": true
-    },
-    {
       "id": "story_time_001",
       "categoryId": "story_time",
       "title": "The Clever Rabbit",
