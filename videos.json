@@ -322,32 +322,6 @@
       "isPublished": true
     },
     {
-      "id": "numbers_003",
-      "categoryId": "numbers",
-      "title": "Counting Objects",
-      "description": "Learn counting using objects",
-      "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
-      "language": "English",
-      "ageGroup": "2-6",
-      "sortOrder": 3,
-      "isPublished": true
-    },
-    {
-      "id": "numbers_004",
-      "categoryId": "numbers",
-      "title": "Number Practice",
-      "description": "Practice identifying numbers",
-      "thumbnail": "",
-      "driveUrl": "",
-      "duration": "03:00",
-      "language": "English",
-      "ageGroup": "2-6",
-      "sortOrder": 4,
-      "isPublished": true
-    },
-    {
       "id": "colors_001",
       "categoryId": "colors",
       "title": "Red",
