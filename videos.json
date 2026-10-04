@@ -1,4 +1,4 @@
-{
+9{
   "version": 1,
   "app": "KiddyPlay",
   "contentType": "education_videos",
@@ -142,8 +142,8 @@
     {
       "id": "birds_002",
       "categoryId": "birds",
-      "title": "Bird Sounds",
-      "description": "Learn different bird sounds",
+      "title": "Bird Name",
+      "description": "Learn different bird Name's",
       "thumbnail": "",
       "driveUrl": "https://drive.google.com/file/d/1rdl8ZV4p5tIbnq44rcQBy7RJSf93Ivx6/view?usp=drivesdk",
       "duration": "06:08",
